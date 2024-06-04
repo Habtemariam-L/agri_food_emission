@@ -8,7 +8,7 @@ Carbon dioxide emissions from the agri-food sector contribute a substantial port
 
 ● Which countries produce the highest/lowest amount of total CO2 emission?
 
-● Which countries produce the highest/lowets per capita emission?
+● Which countries produce the highest/lowest per capita emission?
 
 ● Does the total amount of CO2 emission prodution show an increasing/decreasing ternd?
 
