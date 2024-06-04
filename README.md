@@ -1,6 +1,6 @@
 # agri_food_emission
 
-Introduction
+# Introduction
 
 Carbon dioxide emissions from the agri-food sector contribute a substantial portion of the global annual emissions, and are significant when studying climate change. It is important to understand the environmental impact of the food industry. One relevant aspect is to understand the spatial distribution and the temporal trends of emission from the agri-food sector. 
 
