@@ -17,7 +17,8 @@ Carbon dioxide emissions from the agri-food sector contribute a substantial port
 # Data set
 
 A data set that contains information on CO2 emission from the agri-food sectors of countries across the globe. The source of the data set is 
-(https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml)
+(https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml).
+Additionally a JSON file containing countries geographic data is used. 
 
 # Visualization
 Take a look at (https://public.tableau.com/shared/5P3MHR3GB?:display_count=n&:origin=viz_share_link) on Tableau Public.
