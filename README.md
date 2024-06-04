@@ -20,5 +20,5 @@ A data set that contains information on CO2 emission from the agri-food sectors 
 (https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml).
 Additionally a JSON file containing countries geographic data is used. 
 
-# Visualization
-Take a look at (https://public.tableau.com/shared/5P3MHR3GB?:display_count=n&:origin=viz_share_link) on Tableau Public.
+# Analysis and Visualization
+Some of the results of the analysis are included as a storyboard in Tableau. Take a look at (https://public.tableau.com/shared/5P3MHR3GB?:display_count=n&:origin=viz_share_link) on Tableau Public.
